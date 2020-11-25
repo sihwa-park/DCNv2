@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/lib/python3.6
 
 import os
 import glob
